@@ -1,4 +1,4 @@
-## Led reactable to sound
+## Leds reactable to sound
 ---
 ### materials:
 
