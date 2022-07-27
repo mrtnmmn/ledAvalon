@@ -8,4 +8,7 @@
  - Multiple resistors 
  - WS2812 Led Strip 
  - 10k potentiometers (x4)
- - 2 position switches
+ - 2 buttons 
+
+### Protoboard sketch 
+![Protoboard sketch](https://imgur.com/wTaFvkF)
